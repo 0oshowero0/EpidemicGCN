@@ -54,6 +54,8 @@ Download the dataset file from this link: https://cloud.tsinghua.edu.cn/f/806122
 ``` bash
 wget -c --content-disposition https://cloud.tsinghua.edu.cn/f/806122f984ae40cdba81/?dl=1 
 tar -zvxf dataset.tar.gz
+mkdir results
+mkdir output
 ```
 
 
